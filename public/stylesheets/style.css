@@ -1,0 +1,16 @@
+body {
+	padding: 50px;
+	font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+	background-color: rgb(164, 158, 243);
+}
+:root {
+	--lg-color: linear-gradient(to right, blue, grey);
+}
+
+#e {
+	text-align: center;
+	font-weight: 600;
+	color: rgb(168, 70, 70);
+	background-color: rgb(107, 163, 144);
+	justify-content: center;
+}
